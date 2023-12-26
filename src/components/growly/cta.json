@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_growly_ctas",
+  "info": {
+    "displayName": "CTA",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "textBtn": {
+      "type": "string"
+    },
+    "linkBtn": {
+      "type": "string"
+    }
+  }
+}

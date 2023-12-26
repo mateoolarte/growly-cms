@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "growly_landings",
+  "info": {
+    "singularName": "growly-landing",
+    "pluralName": "growly-landings",
+    "displayName": "Growly Landing",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "sections": {
+      "type": "dynamiczone",
+      "components": [
+        "growly.hero",
+        "growly.ai",
+        "growly.features"
+      ]
+    }
+  }
+}
