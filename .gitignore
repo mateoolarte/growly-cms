@@ -80,6 +80,8 @@ exports
 dist
 build
 .strapi-updater.json
+.strapi
+types
 
 # Logs
 npm-debug.log*
