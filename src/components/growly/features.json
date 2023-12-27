@@ -12,7 +12,7 @@
     "description": {
       "type": "text"
     },
-    "feature": {
+    "features": {
       "type": "component",
       "repeatable": true,
       "component": "growly.item"
