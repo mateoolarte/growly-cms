@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_growly_plans",
+  "info": {
+    "displayName": "Plan",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "price": {
+      "type": "integer"
+    },
+    "priceInstallments": {
+      "type": "decimal"
+    },
+    "priceMaintenance": {
+      "type": "decimal"
+    },
+    "slug": {
+      "type": "string"
+    }
+  }
+}

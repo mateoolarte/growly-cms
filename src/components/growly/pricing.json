@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_growly_pricings",
+  "info": {
+    "displayName": "Pricing",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "plans": {
+      "type": "component",
+      "repeatable": true,
+      "component": "growly.plan"
+    }
+  }
+}

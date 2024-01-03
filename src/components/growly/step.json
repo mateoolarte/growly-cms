@@ -1,8 +1,7 @@
 {
-  "collectionName": "components_growly_item",
+  "collectionName": "components_growly_steps",
   "info": {
-    "displayName": "Feature Item",
-    "description": ""
+    "displayName": "Step"
   },
   "options": {},
   "attributes": {
@@ -10,7 +9,7 @@
       "type": "string"
     },
     "description": {
-      "type": "string"
+      "type": "text"
     },
     "icon": {
       "type": "string"

@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_growly_faqs",
+  "info": {
+    "displayName": "FAQs",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "growly.faq-item"
+    }
+  }
+}

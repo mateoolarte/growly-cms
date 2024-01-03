@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_growly_benefits",
+  "info": {
+    "displayName": "Benefit"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "belongPlans": {
+      "type": "json"
+    }
+  }
+}
