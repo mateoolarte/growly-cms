@@ -4,7 +4,7 @@
   "info": {
     "singularName": "growly-landing",
     "pluralName": "growly-landings",
-    "displayName": "Growly Landing",
+    "displayName": "[Growly] Landing",
     "description": ""
   },
   "options": {
@@ -20,7 +20,8 @@
         "growly.features",
         "growly.pricing",
         "growly.how-it-works",
-        "growly.faq"
+        "growly.faq",
+        "growly.banner-cta"
       ]
     }
   }
