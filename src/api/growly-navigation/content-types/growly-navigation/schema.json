@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "growly_navigations",
+  "info": {
+    "singularName": "growly-navigation",
+    "pluralName": "growly-navigations",
+    "displayName": "[Growly] Navigation",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "header": {
+      "displayName": "Navigation link",
+      "type": "component",
+      "repeatable": true,
+      "component": "growly.navigation-link"
+    },
+    "footer": {
+      "type": "component",
+      "repeatable": true,
+      "component": "growly.navigation-link"
+    }
+  }
+}
