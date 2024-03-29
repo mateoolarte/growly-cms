@@ -16,7 +16,8 @@
       "type": "enumeration",
       "enum": [
         "link",
-        "button"
+        "button",
+        "button-alt"
       ],
       "default": "link"
     }
