@@ -16,6 +16,9 @@
       "type": "component",
       "repeatable": true,
       "component": "growly.plan"
+    },
+    "tooltip": {
+      "type": "string"
     }
   }
 }
