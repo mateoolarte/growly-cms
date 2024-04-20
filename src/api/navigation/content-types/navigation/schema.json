@@ -1,10 +1,10 @@
 {
   "kind": "singleType",
-  "collectionName": "growly_navigations",
+  "collectionName": "navigations",
   "info": {
-    "singularName": "growly-navigation",
-    "pluralName": "growly-navigations",
-    "displayName": "[Growly] Navigation",
+    "singularName": "navigation",
+    "pluralName": "navigations",
+    "displayName": "Navigation",
     "description": ""
   },
   "options": {

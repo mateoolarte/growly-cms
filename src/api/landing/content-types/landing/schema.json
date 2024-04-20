@@ -1,10 +1,10 @@
 {
   "kind": "singleType",
-  "collectionName": "growly_landings",
+  "collectionName": "landings",
   "info": {
-    "singularName": "growly-landing",
-    "pluralName": "growly-landings",
-    "displayName": "[Growly] Landing",
+    "singularName": "landing",
+    "pluralName": "landings",
+    "displayName": "Landing",
     "description": ""
   },
   "options": {
