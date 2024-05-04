@@ -20,6 +20,9 @@
     },
     "slug": {
       "type": "string"
+    },
+    "icon": {
+      "type": "string"
     }
   }
 }
