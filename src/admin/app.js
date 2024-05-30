@@ -9,9 +9,6 @@ const config = {
   auth: {
     logo: favicon,
   },
-  head: {
-    favicon,
-  },
   menu: {
     logo: favicon,
   },

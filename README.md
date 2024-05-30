@@ -1,6 +1,6 @@
 # Growly CMS
 
-Strapi Headless CMS managing the content of Growly core & Landing pages
+Strapi Headless CMS managing the content of Growly core
 
 ## Built With
 
@@ -13,12 +13,11 @@ Strapi Headless CMS managing the content of Growly core & Landing pages
 ### Prerequisites
 
 - [NodeJS LTS](https://nodejs.org/en)
-- [PNPM package manager](https://pnpm.io/installation)
 - Postgres installed locally. [Homebrew is a good option](https://www.moncefbelyamani.com/how-to-install-postgresql-on-a-mac-with-homebrew-and-lunchy/)
 - PgAdmin 4 (Optional)
 
 ```shell
-pnpm install
+npm install
 ```
 
 After installing the dependencies you should copy the values from `.env.example` file. You only need to modify the values with `DATABASE_` prefix with the local configuration of your database
@@ -28,13 +27,13 @@ After installing the dependencies you should copy the values from `.env.example`
 ### Run local environment
 
 ```shell
-pnpm dev
+npm run dev
 ```
 
 ### Building
 
 ```shell
-pnpm build
+npm run build
 ```
 
 ### Deploying

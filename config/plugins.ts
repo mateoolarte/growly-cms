@@ -1,4 +1,4 @@
-module.exports = ({ env }) => {
+export default ({ env }) => {
   const isDevelopment = env("NODE_ENV") === "development";
 
   if (isDevelopment) return {};
